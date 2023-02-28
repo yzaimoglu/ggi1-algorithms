@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "linear_search.h": "c",
+        "__bit_reference": "c",
+        "__mutex_base": "c",
+        "__node_handle": "c",
+        "array": "c",
+        "ios": "c",
+        "istream": "c",
+        "optional": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "string_view": "c",
+        "tuple": "c",
+        "variant": "c",
+        "vector": "c",
+        "heap_sort.h": "c",
+        "selection_sort.h": "c",
+        "insertion_sort.h": "c",
+        "linked_list.h": "c",
+        "stdio.h": "c",
+        "quick_sort.h": "c",
+        "__config": "c",
+        "__hash_table": "c",
+        "__locale": "c",
+        "__string": "c",
+        "version": "c",
+        "queue": "c",
+        "util.h": "c"
+    }
+}
