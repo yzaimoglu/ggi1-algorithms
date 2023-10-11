@@ -1,4 +1,4 @@
-# Algorithms during my studies
+# Algorithms during the "Grundgebiete der Informatik I" module
 
 
 ## Grundgebiete der Informatik I
